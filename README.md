@@ -1,4 +1,4 @@
-# Digit-Recognition: SFU Invent the Future Final Project
+# Digit-Recognition: SFU Invent the Future Final Project Summer 2023
 ## SFU Invent the Future
 Invent the Future is Canada’s first and only summer enrichment program focused on bringing Artificial Intelligence (AI) expertise, community, and mentorship to trans and cisgender women, non-binary and Two Spirit students in middle and high school students.  
 
